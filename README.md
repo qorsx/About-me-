@@ -25,6 +25,7 @@
 <a href="https://instagram.com/fwqmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fwqmw" height="30" width="40" /></a>
 <a href="https://medium.com/@_amirmahmood_ | @amir_kalilinux | @fwqmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@_amirmahmood_ | @amir_kalilinux | @fwqmw" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gray" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@amir_kalilinux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@amir_kalilinux" height="30" width="40" /></a>
 <a href="/https://systemyar.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://systemyar.com" height="30" width="40" /></a>
 </p>
 
