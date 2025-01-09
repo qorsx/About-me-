@@ -1,4 +1,3 @@
-# About-me-
 <h1 align="center">Hi 👋, I'm AMIR_KALI(LINUX)👾</h1>
 <h3 align="center">𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫 / 𝐄𝐝𝐢𝐭𝐨𝐫 / 𝐇.𝐊 𝐚𝐧𝐝 👾𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 (𝐢𝐧 𝐩𝐫𝐨𝐠𝐫𝐞𝐬𝐬) 𝟴 𝗡𝗼𝘃𝗲𝗺𝗯𝗲𝗿 𝟮𝟬𝟬𝟳</h3>
 
@@ -22,7 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/amir_kalilinnux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amir_kalilinnux" height="30" width="40" /></a>
 <a href="https://instagram.com/fwqmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fwqmw" height="30" width="40" /></a>
+<a href="https://medium.com/@_amirmahmood_ | @amir_kalilinux | @fwqmw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@_amirmahmood_ | @amir_kalilinux | @fwqmw" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gray" height="30" width="40" /></a>
+<a href="/https://systemyar.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://systemyar.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
